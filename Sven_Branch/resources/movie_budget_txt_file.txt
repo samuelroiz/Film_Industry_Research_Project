@@ -1,0 +1,609 @@
+tdmb_id, idmb_id, title, budget, revenue, run_time
+2, tt0094675, Ariel, 0, 0, NaN
+3, tt0092149, Shadows in Paradise, 0, 73, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+5, tt0113101, Four Rooms, 4000000, 74, NaN
+6, tt0107286, Judgment Night, 21000000, NaN, NaN
+NaN, NaN, NaN, NaN, 4257354, NaN
+8, tt0825671, Life in Loops (A Megacities RMX), 42000, 98, NaN
+9, tt0425473, Sunday in August, 0, 12136938, NaN
+NaN, NaN, NaN, NaN, 110, NaN
+11, tt0076759, Star Wars, 11000000, NaN, NaN
+12, tt0266543, Finding Nemo, 94000000, 0, NaN
+13, tt0109830, Forrest Gump, 55000000, 80, NaN
+14, tt0169547, American Beauty, 15000000, 0, NaN
+15, tt0033467, Citizen Kane, 839727, 15, NaN
+16, tt0168629, Dancer in the Dark, 12800000, NaN, NaN
+17, tt0411267, The Dark, 0, 775398007, NaN
+18, tt0119116, The Fifth Element, 90000000, 121, NaN
+19, tt0017136, Metropolis, 1300000, 940335536, NaN
+20, tt0314412, My Life Without Me, 0, 100, NaN
+21, tt0060371, The Endless Summer, 0, 677387716, NaN
+22, tt0325980, Pirates of the Caribbean: The Curse of the Black Pearl, 140000000, 142, NaN
+NaN, NaN, NaN, NaN, 356296601, NaN
+24, tt0266697, Kill Bill: Vol. 1, 30000000, 122, NaN
+25, tt0418763, Jarhead, 72000000, 23218000, NaN
+26, tt0352994, Walk on Water, 1400000, 119, NaN
+27, tt0411705, 9 Songs, 1000000, 40031879, NaN
+28, tt0078788, Apocalypse Now, 31500000, 141, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 87, NaN
+NaN, NaN, NaN, NaN, 263920180, NaN
+NaN, NaN, NaN, NaN, 126, NaN
+33, tt0105695, Unforgiven, 14400000, 650422, NaN
+NaN, NaN, NaN, NaN, 149, NaN
+35, tt0462538, The Simpsons Movie, 75000000, 9726954, NaN
+NaN, NaN, NaN, NaN, 106, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+38, tt0338013, Eternal Sunshine of the Spotless Mind, 20000000, 91, NaN
+NaN, NaN, NaN, NaN, 655011224, NaN
+NaN, NaN, NaN, NaN, 143, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 180899265, NaN
+NaN, NaN, NaN, NaN, 111, NaN
+NaN, NaN, NaN, NaN, 97076152, NaN
+NaN, NaN, NaN, NaN, 123, NaN
+NaN, NaN, NaN, NaN, 444, NaN
+NaN, NaN, NaN, NaN, 103, NaN
+NaN, NaN, NaN, NaN, 1574623, NaN
+NaN, NaN, NaN, NaN, 70, NaN
+NaN, NaN, NaN, NaN, 150000000, NaN
+NaN, NaN, NaN, NaN, 147, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+55, tt0245712, Amores Perros, 2000000, NaN, NaN
+NaN, NaN, NaN, NaN, 159157447, NaN
+NaN, NaN, NaN, NaN, 130, NaN
+58, tt0383574, Pirates of the Caribbean: Dead Man's Chest, 200000000, NaN, NaN
+59, tt0399146, A History of Violence, 32000000, 527068851, NaN
+NaN, NaN, NaN, NaN, 87, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+62, tt0062622, 2001: A Space Odyssey, 12000000, NaN, NaN
+63, tt0114746, Twelve Monkeys, 29000000, 72258126, NaN
+64, tt0287467, Talk to Her, 0, 108, NaN
+65, tt0298203, 8 Mile, 41000000, NaN, NaN
+66, tt0118548, Absolute Power, 50000000, NaN, NaN
+67, tt0445620, Paradise Now, 2000000, NaN, NaN
+68, tt0088846, Brazil, 15000000, NaN, NaN
+69, tt0358273, Walk the Line, 28000000, NaN, NaN
+70, tt0405159, Million Dollar Baby, 30000000, NaN, NaN
+71, tt0249462, Billy Elliot, 5000000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+73, tt0120586, American History X, 20000000, NaN, NaN
+74, tt0407304, War of the Worlds, 132000000, NaN, NaN
+75, tt0116996, Mars Attacks!, 70000000, NaN, NaN
+76, tt0112471, Before Sunrise, 2500000, NaN, NaN
+77, tt0209144, Memento, 9000000, NaN, NaN
+78, tt0083658, Blade Runner, 28000000, NaN, NaN
+79, tt0299977, Hero, 31000000, NaN, NaN
+80, tt0381681, Before Sunset, 2700000, NaN, NaN
+81, tt0087544, Nausicaä of the Valley of the Wind, 1000000, 20908467, NaN
+82, tt0430357, Miami Vice, 135000000, 154, NaN
+83, tt0374102, Open Water, 130000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+85, tt0082971, Raiders of the Lost Ark, 18000000, 1065659812, NaN
+86, tt0430051, The Elementary Particles, 6000000, 151, NaN
+87, tt0087469, Indiana Jones and the Temple of Doom, 28000000, 60740827, NaN
+88, tt0092890, Dirty Dancing, 6000000, 96, NaN
+89, tt0097576, Indiana Jones and the Last Crusade, 48000000, NaN, NaN
+90, tt0086960, Beverly Hills Cop, 14000000, NaN, NaN
+91, tt0023037, Land Without Bread, 0, 71923560, NaN
+92, tt0169024, Megacities, 0, 149, NaN
+93, tt0052561, Anatomy of a Murder, 2000000, 168841459, NaN
+94, tt0436488, Kunstgriff, 0, 129, NaN
+95, tt0120591, Armageddon, 140000000, 51001550, NaN
+96, tt0092644, Beverly Hills Cop II, 28000000, 112, NaN
+97, tt0084827, Tron, 17000000, 242875078, NaN
+98, tt0172495, Gladiator, 103000000, 111, NaN
+99, tt0185125, All About My Mother, 8272296, 50068310, NaN
+100, tt0120735, Lock, Stock and Two Smoking Barrels, 1350000, 121, NaN
+101, tt0110413, Léon: The Professional, 16000000, 3395627, NaN
+102, tt0315543, Open Hearts, 0, 90, NaN
+103, tt0075314, Taxi Driver, 1300000, 0, NaN
+104, tt0130827, Run Lola Run, 1530000, 143, NaN
+105, tt0088763, Back to the Future, 19000000, 186797986, NaN
+106, tt0093773, Predator, 15000000, 136, NaN
+107, tt0208092, Snatch, 10000000, 216763646, NaN
+108, tt0108394, Three Colors: Blue, 0, 132, NaN
+109, tt0111507, Three Colors: White, 0, 109280263, NaN
+110, tt0111495, Three Colors: Red, 0, 110, NaN
+111, tt0086250, Scarface, 25000000, NaN, NaN
+112, tt0243862, Italian for Beginners, 0, 23875127, NaN
+113, tt0374546, Spring, Summer, Fall, Winter... and Spring, 0, 119, NaN
+114, tt0100405, Pretty Woman, 14000000, 603873119, NaN
+115, tt0118715, The Big Lebowski, 15000000, 117, NaN
+116, tt0416320, Match Point, 15000000, 101371017, NaN
+117, tt0094226, The Untouchables, 25000000, 106, NaN
+118, tt0367594, Charlie and the Chocolate Factory, 150000000, 5987386, NaN
+NaN, NaN, NaN, NaN, 101, NaN
+120, tt0120737, The Lord of the Rings: The Fellowship of the Ring, 93000000, 39723096, NaN
+121, tt0167261, The Lord of the Rings: The Two Towers, 79000000, 113, NaN
+122, tt0167260, The Lord of the Rings: The Return of the King, 94000000, 41670166, NaN
+123, tt0077869, The Lord of the Rings, 4000000, 118, NaN
+124, tt0086961, No End, 0, 177394432, NaN
+125, tt0080668, Railway Station, 0, 99, NaN
+126, tt0082631, Short Working Day, 0, 15992615, NaN
+127, tt0084549, Blind Chance, 0, 80, NaN
+128, tt0119698, Princess Mononoke, 26500000, 3301446, NaN
+129, tt0245429, Spirited Away, 19000000, 117, NaN
+NaN, NaN, NaN, NaN, 163794509, NaN
+NaN, NaN, NaN, NaN, 132, NaN
+132, tt0065780, Gimme Shelter, 0, 54667954, NaN
+133, tt0054205, Primary, 0, 79, NaN
+134, tt0190590, O Brother, Where Art Thou?, 26000000, NaN, NaN
+135, tt0061589, Dont Look Back, 0, 389925971, NaN
+136, tt0022913, Freaks, 310607, 115, NaN
+137, tt0107048, Groundhog Day, 14600000, 0, NaN
+138, tt0021814, Dracula, 355000, 105, NaN
+139, tt0164756, Mifune, 0, 333000000, NaN
+140, tt0275491, Bad Education, 5000000, 118, NaN
+141, tt0246578, Donnie Darko, 6000000, 213893795, NaN
+142, tt0388795, Brokeback Mountain, 14000000, 100, NaN
+143, tt0020629, All Quiet on the Western Front, 1448864, 474171806, NaN
+144, tt0093191, Wings of Desire, 2500000, 127, NaN
+145, tt0115751, Breaking the Waves, 0, 316360478, NaN
+146, tt0190332, Crouching Tiger, Hidden Dragon, 17000000, 105, NaN
+147, tt0053198, The 400 Blows, 0, 0, NaN
+148, tt0430576, The Secret Life of Words, 5000000, 29, NaN
+149, tt0094625, Akira, 10000000, 0, NaN
+150, tt0083511, 48 Hrs., 12000000, 94, NaN
+NaN, NaN, NaN, NaN, 8000000, NaN
+152, tt0079945, Star Trek: The Motion Picture, 35000000, 161, NaN
+153, tt0335266, Lost in Translation, 4000000, 0, NaN
+154, tt0084726, Star Trek II: The Wrath of Khan, 12000000, 6, NaN
+155, tt0468569, The Dark Knight, 185000000, 553799566, NaN
+156, tt0329767, Wilbur Wants to Kill Himself, 0, 151, NaN
+157, tt0088170, Star Trek III: The Search for Spock, 18000000, 299965036, NaN
+158, tt0119472, Knockin' on Heaven's Door, 0, 103, NaN
+159, tt0109255, Maybe... Maybe Not, 0, 33000000, NaN
+160, tt0000012, The Arrival of a Train at La Ciotat, 0, 96, NaN
+161, tt0240772, Ocean's Eleven, 85000000, 465361176, NaN
+162, tt0099487, Edward Scissorhands, 20000000, 155, NaN
+163, tt0349903, Ocean's Twelve, 110000000, 67872296, NaN
+164, tt0054698, Breakfast at Tiffany's, 2500000, 101, NaN
+165, tt0096874, Back to the Future Part II, 40000000, 28356188, NaN
+166, tt0082100, The Party, 0, 105, NaN
+167, tt0272152, K-PAX, 48000000, 45284974, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1018, tt0166924, Mulholland Drive, 15000000, 20117339, NaN
+NaN, NaN, NaN, NaN, 147, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1023, tt0418455, Adam's Apples, 3700000, NaN, NaN
+1024, tt0110005, Heavenly Creatures, 5000000, 0, NaN
+NaN, NaN, NaN, NaN, 94, NaN
+NaN, NaN, NaN, NaN, 3049135, NaN
+NaN, NaN, NaN, NaN, 109, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1039, tt0141824, The Inheritors, 0, NaN, NaN
+1040, tt0057091, The Leopard, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 95, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 186, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1049, tt0108185, Sommersby, 0, NaN, NaN
+1050, tt0215369, Shower, 0, NaN, NaN
+1051, tt0067116, The French Connection, 1800000, NaN, NaN
+1052, tt0060176, Blow-Up, 1800000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 140081992, NaN
+NaN, NaN, NaN, NaN, 109, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 92, NaN
+1058, tt0085276, Breathless, 0, 41158757, NaN
+1059, tt0051808, The Hidden Fortress, 0, 104, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 111, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 19910002, NaN
+NaN, NaN, NaN, NaN, 100, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 139, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1073, tt0137363, Arlington Road, 21500000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1075, tt0118843, Black Cat, White Cat, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 117, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+1088, tt0298228, Whale Rider, 8000000, 127, NaN
+1089, tt0102685, Point Break, 24000000, NaN, NaN
+1090, tt0139809, The Thirteenth Floor, 16000000, NaN, NaN
+1091, tt0084787, The Thing, 15000000, NaN, NaN
+1092, tt0041959, The Third Man, 0, NaN, NaN
+1093, tt0051378, Elevator to the Gallows, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 41400000, NaN
+NaN, NaN, NaN, NaN, 101, NaN
+1103, tt0082340, Escape from New York, 6000000, 83531958, NaN
+NaN, NaN, NaN, NaN, 122, NaN
+NaN, NaN, NaN, NaN, 18564088, NaN
+NaN, NaN, NaN, NaN, 101, NaN
+NaN, NaN, NaN, NaN, 19629760, NaN
+NaN, NaN, NaN, NaN, 109, NaN
+NaN, NaN, NaN, NaN, 1226098, NaN
+NaN, NaN, NaN, NaN, 104, NaN
+NaN, NaN, NaN, NaN, 263404, NaN
+NaN, NaN, NaN, NaN, 91, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1114, tt0373861, The Story of the Weeping Camel, 0, NaN, NaN
+1115, tt0419773, Ghosts, 0, NaN, NaN
+1116, tt0460989, The Wind That Shakes the Barley, 6500000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 50244700, NaN
+1123, tt0437232, Catch a Fire, 14000000, 99, NaN
+1124, tt0482571, The Prestige, 40000000, NaN, NaN
+1125, tt0443489, Dreamgirls, 70000000, NaN, NaN
+1126, tt0385017, In My Father's Den, 0, NaN, NaN
+1127, tt0434292, Princesses, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 91, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 85, NaN
+NaN, NaN, NaN, NaN, 22889018, NaN
+NaN, NaN, NaN, NaN, 127, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 5710236, NaN
+NaN, NaN, NaN, NaN, 101, NaN
+NaN, NaN, NaN, NaN, 109676311, NaN
+NaN, NaN, NaN, NaN, 130, NaN
+NaN, NaN, NaN, NaN, 154937680, NaN
+NaN, NaN, NaN, NaN, 134, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 126, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 113, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1162, tt0056241, The Miracle Worker, 500000, NaN, NaN
+1163, tt0246786, The Miracle Worker, 0, NaN, NaN
+1164, tt0449467, Babel, 25000000, NaN, NaN
+1165, tt0436697, The Queen, 15000000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 2500000, NaN
+NaN, NaN, NaN, NaN, 106, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 95, NaN
+NaN, NaN, NaN, NaN, 135330182, NaN
+NaN, NaN, NaN, NaN, 143, NaN
+NaN, NaN, NaN, NaN, 123384128, NaN
+NaN, NaN, NaN, NaN, 103, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1213, tt0134119, The Talented Mr. Ripley, 40000000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1244, tt0764639, Eight Miles High, 0, NaN, NaN
+1245, tt0107943, The Remains of the Day, 11500000, 128798265, NaN
+1246, tt0479143, Rocky Balboa, 24000000, 139, NaN
+1247, tt0343737, The Good Shepherd, 85000000, NaN, NaN
+1248, tt0367959, Hannibal Rising, 50000000, NaN, NaN
+1249, tt0427969, Hollywoodland, 0, NaN, NaN
+1250, tt0259324, Ghost Rider, 110000000, NaN, NaN
+1251, tt0498380, Letters from Iwo Jima, 19000000, NaN, NaN
+1252, tt0441774, Lonely Hearts, 18000000, NaN, NaN
+1253, tt0443456, Breaking and Entering, 0, NaN, NaN
+1254, tt0485241, Don't Worry, I'm Fine, 0, NaN, NaN
+1255, tt0468492, The Host, 11000000, NaN, NaN
+1256, tt0808315, Dead in 3 days, 2000000, NaN, NaN
+1257, tt0490084, Because I Said So, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1259, tt0465551, Notes on a Scandal, 15000000, NaN, NaN
+1260, tt0447249, Lotte from Gadgetville, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1262, tt0420223, Stranger Than Fiction, 30000000, NaN, NaN
+1263, tt0449080, Die Aufschneider, 0, NaN, NaN
+1264, tt0811159, The Wild Soccer Bunch 4, 5833536, NaN, NaN
+1265, tt0398808, Bridge to Terabithia, 60000000, NaN, NaN
+1266, tt0421073, Street Kings, 20000000, NaN, NaN
+1267, tt0396555, Meet the Robinsons, 150000000, NaN, NaN
+1268, tt0453451, Mr. Bean's Holiday, 25000000, NaN, NaN
+1269, tt0446009, The Vexxer, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1271, tt0416449, 300, 65000000, NaN, NaN
+1272, tt0448134, Sunshine, 50000000, NaN, NaN
+1273, tt0453556, TMNT, 34000000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1277, tt0155722, Gloomy Sunday, 0, 957744, NaN
+1278, tt0309987, The Dreamers, 15000000, 114, NaN
+1279, tt0397619, Samaritan Girl, 1000000, 23237911, NaN
+1280, tt0423866, 3-Iron, 0, 134, NaN
+1281, tt0118689, Bean, 18000000, 155721132, NaN
+1282, tt0275309, Dogtown and Z-Boys, 0, 102, NaN
+1283, tt0120868, Torrente, the Dumb Arm of the Law, 0, 100266865, NaN
+1284, tt0257231, Torrente 2: Mission in Marbella, 0, 167, NaN
+1285, tt0444505, Torrente 3: The Protector, 5473145, 82169884, NaN
+NaN, NaN, NaN, NaN, 121, NaN
+NaN, NaN, NaN, NaN, 16803753, NaN
+NaN, NaN, NaN, NaN, 126, NaN
+NaN, NaN, NaN, NaN, 228738393, NaN
+NaN, NaN, NaN, NaN, 114, NaN
+NaN, NaN, NaN, NaN, 68673228, NaN
+NaN, NaN, NaN, NaN, 141, NaN
+NaN, NaN, NaN, NaN, 2520000, NaN
+1294, tt0461694, Four Minutes, 0, 108, NaN
+NaN, NaN, NaN, NaN, 8974829, NaN
+NaN, NaN, NaN, NaN, 129, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 96, NaN
+NaN, NaN, NaN, NaN, 88489643, NaN
+NaN, NaN, NaN, NaN, 120, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 97, NaN
+NaN, NaN, NaN, NaN, 69485490, NaN
+NaN, NaN, NaN, NaN, 102, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 49469904, NaN
+NaN, NaN, NaN, NaN, 92, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 81, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 53653224, NaN
+NaN, NaN, NaN, NaN, 113, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 92, NaN
+NaN, NaN, NaN, NaN, 18873863, NaN
+NaN, NaN, NaN, NaN, 110, NaN
+NaN, NaN, NaN, NaN, 137587063, NaN
+NaN, NaN, NaN, NaN, 96, NaN
+NaN, NaN, NaN, NaN, 65569869, NaN
+NaN, NaN, NaN, NaN, 109, NaN
+NaN, NaN, NaN, NaN, 169332978, NaN
+NaN, NaN, NaN, NaN, 95, NaN
+NaN, NaN, NaN, NaN, 232225908, NaN
+NaN, NaN, NaN, NaN, 90, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 98, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 422610419, NaN
+NaN, NaN, NaN, NaN, 117, NaN
+NaN, NaN, NaN, NaN, 34806812, NaN
+NaN, NaN, NaN, NaN, 107, NaN
+NaN, NaN, NaN, NaN, 95608995, NaN
+NaN, NaN, NaN, NaN, 87, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, 585604, NaN
+NaN, NaN, NaN, NaN, 112, NaN
+NaN, NaN, NaN, NaN, 15121165, NaN
+NaN, NaN, NaN, NaN, 112, NaN
+NaN, NaN, NaN, NaN, 328161, NaN
+NaN, NaN, NaN, NaN, 95, NaN
+NaN, NaN, NaN, NaN, 3403957, NaN
+NaN, NaN, NaN, NaN, 88, NaN
+NaN, NaN, NaN, NaN, 251212670, NaN
+NaN, NaN, NaN, NaN, 89, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 90, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 97, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+NaN, NaN, NaN, NaN, 99, NaN
+NaN, NaN, NaN, NaN, 19888231, NaN
+NaN, NaN, NaN, NaN, 91, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1358, tt0103882, A Brief History of Time, 0, NaN, NaN
+1359, tt0144084, American Psycho, 7000000, NaN, NaN
+1360, tt0120679, Frida, 12000000, NaN, NaN
+1361, tt0079802, The Return of the King, 0, NaN, NaN
+1362, tt0077687, The Hobbit, 3000000, NaN, NaN
+1363, tt0120699, The Hi-Lo Country, 0, 0, NaN
+1364, tt0254455, Sex and Lucía, 0, 112, NaN
+1365, tt0285742, Monster's Ball, 4000000, NaN, NaN
+1366, tt0075148, Rocky, 1000000, NaN, NaN
+1367, tt0079817, Rocky II, 7000000, NaN, NaN
+1368, tt0083944, First Blood, 15000000, NaN, NaN
+1369, tt0089880, Rambo: First Blood Part II, 44000000, NaN, NaN
+1370, tt0095956, Rambo III, 63000000, NaN, NaN
+1371, tt0084602, Rocky III, 17000000, NaN, NaN
+1372, tt0450259, Blood Diamond, 100000000, NaN, NaN
+1373, tt0251052, The Discovery of Heaven, 0, NaN, NaN
+1374, tt0089927, Rocky IV, 31000000, NaN, NaN
+1375, tt0100507, Rocky V, 42000000, NaN, NaN
+1376, tt0313670, Sweet Sixteen, 0, NaN, NaN
+1377, tt0051745, Houseboat, 0, NaN, NaN
+1378, tt0367027, Shortbus, 2000000, NaN, NaN
+1379, tt0458242, Lights in the Dusk, 1380000, NaN, NaN
+1380, tt0097438, Gleaming the Cube, 10000000, NaN, NaN
+1381, tt0414993, The Fountain, 35000000, NaN, NaN
+1382, tt0415978, Me and You and Everyone We Know, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1386, tt0169173, Rendezvous, 0, NaN, NaN
+1387, tt0094075, Superstar: The Karen Carpenter Story, 0, NaN, NaN
+1388, tt0094300, The Way Things Go, 1, NaN, NaN
+1389, tt0120780, Out of Sight, 48000000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1391, tt0245574, Y Tu Mamá También, 5000000, NaN, NaN
+1392, tt0388789, Born Into Brothels: Calcutta's Red Light Kids, 350000, NaN, NaN
+1393, tt0432325, The Cave of the Yellow Dog, 0, NaN, NaN
+1394, tt0086022, Nostalgia, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1396, tt0072443, Mirror, 825370, NaN, NaN
+1397, tt0985019, Wege Gottes, 0, NaN, NaN
+1398, tt0079944, Stalker, 120000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1402, tt0454921, The Pursuit of Happyness, 55000000, NaN, NaN
+1403, tt0060355, Duel at Diablo, 0, NaN, NaN
+1404, tt0380366, Ae Fond Kiss..., 0, NaN, NaN
+1405, tt0015881, Greed, 665603, NaN, NaN
+1406, tt0101587, City Slickers, 27000000, NaN, NaN
+1407, tt0450188, La Vie en Rose, 25000000, NaN, NaN
+1408, tt0112760, Cutthroat Island, 98000000, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1410, tt0069945, Dark Star, 60000, NaN, NaN
+1411, tt0102757, The Rapture, 1227401, NaN, NaN
+1412, tt0098724, Sex, Lies, and Videotape, 1200000, NaN, NaN
+1413, tt0107468, M. Butterfly, 0, NaN, NaN
+1414, tt0133363, Lovers of the Arctic Circle, 0, NaN, NaN
+1415, tt0320244, Party Monster, 5000000, NaN, NaN
+1416, tt0341384, The Coast Guard, 0, NaN, NaN
+1417, tt0457430, Pan's Labyrinth, 19000000, NaN, NaN
+1418, tt0350193, Take My Eyes, 0, NaN, NaN
+1419, tt0890888, Vollidiot, 0, NaN, NaN
+1420, tt0411195, Breakfast on Pluto, 0, NaN, NaN
+1421, tt0076155, The Man Who Loved Women, 0, NaN, NaN
+1422, tt0407887, The Departed, 90000000, NaN, NaN
+1423, tt1344607, Flying Saucer Rock 'N' Roll, 0, NaN, NaN
+1424, tt0368089, November, 0, NaN, NaN
+NaN, NaN, NaN, NaN, NaN, NaN
+1426, tt0490174, Maria am Wasser, 0, NaN, NaN
+1427, tt0396171, Perfume: The Story of a Murderer, 50000000, NaN, NaN
+1428, tt0285823, Once Upon a Time in Mexico, 29000000, 2279692, NaN
+1429, tt0307901, 25th Hour, 5000000, 80, NaN
+1430, tt0310793, Bowling for Columbine, 4000000, 34266564, NaN
+NaN, NaN, NaN, NaN, 102, NaN
+NaN, NaN, NaN, NaN, 56298474, NaN
+1433, tt0256009, The Devil's Backbone, 4500000, 123, NaN
+NaN, NaN, NaN, NaN, 0, NaN
+1435, tt0390538, Tarnation, 218, 98, NaN
+1436, tt0275083, The Warrior, 8000000, 0, NaN
+1437, tt0388679, Abgefahren, 0, 77, NaN
+1438, tt0940833, Regoch, 0, 0, NaN
+1439, tt0166485, Anna and the King, 75000000, 114, NaN
+1440, tt0404203, Little Children, 26000000, 7640680, NaN
+1441, tt0445946, The Contract, 25000000, 128, NaN
