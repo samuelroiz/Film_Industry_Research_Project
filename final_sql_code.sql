@@ -1,3 +1,11 @@
+CREATE TABLE  revenue  (
+     title TEXT  NOT NULL ,
+     type  TEXT  NOT NULL ,
+     country TEXT NOT NULL ,
+     worldwide_gross Float  NOT NULL 
+);
+
+
 CREATE TABLE  movie_budget  (
      tdmb_id  Float  NOT NULL ,
      idmb_id  TEXT  NOT NULL ,
@@ -19,7 +27,7 @@ CREATE TABLE  movie_votes  (
 CREATE TABLE  artist  (
      artist_id  TEXT  NOT NULL ,
      artist  TEXT  NOT NULL ,
-     idmb_id TEXT  NOT NULL ,
+     imdb_id TEXT  NOT NULL ,
 	 idmb_id_1 TEXT  ,
 	 idmb_id_2 TEXT   ,
 	 idmb_id_3 TEXT  ,
@@ -38,8 +46,10 @@ DROP TABLE movie_votes;
 DROP TABLE movie_budget;
 DROP TABLE artist;
 DROP TABLE genre;
+DROP TABLE revenue;
 
 SELECT * FROM artist;
+SELECT * FROM revenue;
 SELECT * FROM movie_budget;
 SELECT * FROM movie_votes;
 SELECT * FROM genre;
