@@ -19,31 +19,42 @@ All of them are connected through Primary and Foreign keys, these were the IMDB 
 
 ## Data Gather  
 
-### <b> Data base structure </b> 
-![Data base structure](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/database_structure.png)
+### <b> Database structure </b> 
 
+![Database structure](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/database_structure.png)
+
+<p>
+The following database structure is a known method in data modeling. It is named the relationship model and used for displaying the relationships between the tables. The database structure changes over time due to changes in variables and tables. 
+</p>
 
 ### <b> API Keys </b>
+<p>
 Sources used in this project:
 IMDB 
 OMDB 
 Kaggle.
 The data pulled from Kaggle were flat files, meanwhile the data from IMDB and OMDB was extracted through their API’s.
+</p>
+
 ![Extraction of API Keys](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/extraction_of_api_keys.png)
 
 ### <b> Transformation  </b>
+<p>
 In this step we had to:
 Clean the data.
 Reformat the data.
 Save it.
+</p>
 ![Transformation Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/transformation_code.png)
 
 ### <b> Loading </b> 
-Once the data was cleaned and saved as a .csv file we pushed everything to Github and created the connections in SQL.
+<p> Once the data was cleaned and saved as a .csv file we pushed everything to Github and created the connections in SQL. </p>
 ![Loading Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/loading_code.png)
 
 ### <b> Analysis </b>
+<p>
 During this step we checked that everything was running smoothly and that all the files had correctly synced, and that we could connect data from one table to another smoothly.
+</p>
 ![Analysis Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/analysis_code.png)
 
 ## Data Table Examples
