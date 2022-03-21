@@ -16,3 +16,17 @@ The data base is formed by several dataframes:
 Each of these dataframes was created by a different member of our group, that member was responsible for extracting and transforming the file to be ready to be Loaded to a common SQL Database. Each member exported it's clean dataframe into a csv file to be loaded to SQL through a common pandas file.
 
 All of them are connected through Primary and Foreign keys, these were the IMDB or OMDB code, a unique code for each movie, or the movie name.
+
+## Intro. Project  
+
+### <b> Data base structure </b> 
+![Data base structure]()
+
+Sources used in this project:
+IMDB 
+OMDB 
+Kaggle.
+The data pulled from Kaggle were flat files, meanwhile the data from IMDB and OMDB was extracted through their API’s.
+![Extraction of API Keys]()
+
+
