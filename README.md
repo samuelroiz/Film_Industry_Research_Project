@@ -20,7 +20,7 @@ All of them are connected through Primary and Foreign keys, these were the IMDB 
 ## Data Gather  
 
 ### <b> Data base structure </b> 
-![Data base structure]()
+![Data base structure](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/database_structure.png)
 
 
 ### <b> API Keys </b>
@@ -29,22 +29,22 @@ IMDB
 OMDB 
 Kaggle.
 The data pulled from Kaggle were flat files, meanwhile the data from IMDB and OMDB was extracted through their API’s.
-![Extraction of API Keys]()
+![Extraction of API Keys](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/extraction_of_api_keys.png)
 
 ### <b> Transformation  </b>
 In this step we had to:
 Clean the data.
 Reformat the data.
 Save it.
-![Transformation Code]()
+![Transformation Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/transformation_code.png)
 
 ### <b> Loading </b> 
 Once the data was cleaned and saved as a .csv file we pushed everything to Github and created the connections in SQL.
-![Loading Code]()
+![Loading Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/loading_code.png)
 
 ### <b> Analysis </b>
 During this step we checked that everything was running smoothly and that all the files had correctly synced, and that we could connect data from one table to another smoothly.
-![Analysis Code]()
+![Analysis Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/analysis_code.png)
 
 ## Data Table Examples
 
