@@ -45,16 +45,19 @@ Clean the data.
 Reformat the data.
 Save it.
 </p>
+
 ![Transformation Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/transformation_code.png)
 
 ### <b> Loading </b> 
 <p> Once the data was cleaned and saved as a .csv file we pushed everything to Github and created the connections in SQL. </p>
+
 ![Loading Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/loading_code.png)
 
 ### <b> Analysis </b>
 <p>
 During this step we checked that everything was running smoothly and that all the files had correctly synced, and that we could connect data from one table to another smoothly.
 </p>
+
 ![Analysis Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/analysis_code.png)
 
 ## Data Table Examples
