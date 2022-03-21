@@ -17,11 +17,13 @@ Each of these dataframes was created by a different member of our group, that me
 
 All of them are connected through Primary and Foreign keys, these were the IMDB or OMDB code, a unique code for each movie, or the movie name.
 
-## Intro. Project  
+## Data Gather  
 
 ### <b> Data base structure </b> 
 ![Data base structure]()
 
+
+### <b> API Keys </b>
 Sources used in this project:
 IMDB 
 OMDB 
@@ -29,4 +31,20 @@ Kaggle.
 The data pulled from Kaggle were flat files, meanwhile the data from IMDB and OMDB was extracted through their API’s.
 ![Extraction of API Keys]()
 
+### <b> Transformation  </b>
+In this step we had to:
+Clean the data.
+Reformat the data.
+Save it.
+![Transformation Code]()
+
+### <b> Loading </b> 
+Once the data was cleaned and saved as a .csv file we pushed everything to Github and created the connections in SQL.
+![Loading Code]()
+
+### <b> Analysis </b>
+During this step we checked that everything was running smoothly and that all the files had correctly synced, and that we could connect data from one table to another smoothly.
+![Analysis Code]()
+
+## Data Table Examples
 
