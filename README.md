@@ -60,7 +60,7 @@ During this step we checked that everything was running smoothly and that all th
 
 ![Analysis Code](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/analysis_code.png)
 
-## Data Table Examples
+## Data Table Examples in SQL
 
 ![Genre Table Example](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/genre_table_example.png)
 
@@ -68,8 +68,3 @@ During this step we checked that everything was running smoothly and that all th
 
 ![Movie budget and Movie votes table example](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/movie_budget_and_movie_votes.png)
 
-![Genre Table Example]()
-
-![Genre Table Example]()
-
-![Genre Table Example]()
