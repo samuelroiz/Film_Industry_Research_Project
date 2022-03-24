@@ -68,3 +68,35 @@ During this step we checked that everything was running smoothly and that all th
 
 ![Movie budget and Movie votes table example](https://github.com/samuelroiz/Film_Industry_Research_Project/blob/sven/Sven_Branch/image/movie_budget_and_movie_votes.png)
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Samuel Roiz** - *Data cleaned, API Keys* - [GitHub](https://github.com/samuelroiz)
+
+* **LaQuita Williams** - *Data Model* - [GitHub](https://github.com/laquita44) 
+
+* **Leo Lima** - *Data cleaned, API Keys* - [GitHub](https://github.com/Leolima539) 
+
+* **Kevin Perez** - *Data cleaned* - [GitHub](https://github.com/KevinKVNPR) 
+
+
+See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details
+
+## Acknowledgments
+
+* [IMDB](https://imdb-api.com/API)
+* [OMDB](https://www.omdbapi.com/)
+* [Kaggle](https://www.kaggle.com/)
+* USC Data Visualization
+* CSUN Mathematics
